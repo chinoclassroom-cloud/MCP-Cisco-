@@ -1,2 +1,2 @@
 # MCP-Cisco-
-Integrar Ia con el poder de manipular tu cisco
+Integrar IA con el poder de manipular tu cisco
